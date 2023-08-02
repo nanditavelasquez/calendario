@@ -1,0 +1,9 @@
+/* Scroll Personalizado */
+body::-webkit-scrollbar {
+	width: 13px;
+    background-color: #414141;
+}
+
+body::-webkit-scrollbar-thumb {
+	background: #414141;
+}
